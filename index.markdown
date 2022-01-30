@@ -9,3 +9,4 @@ layout: home
 * [readme](readme.md)
 * [test](test.md)
 * [test2](test2.md)
+* [hogehoge readme](hogehoge/readme.md)
